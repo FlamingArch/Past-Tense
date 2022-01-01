@@ -1,2 +1,2 @@
-# Past-Tense
-Official Repo for Past Tense, the Journaling App. Available on iOS, iPadOS, macOS, watchOS, tvOS, Android, Windows and Linux
+# SwiftUI Journal
+A simple journaling app written using SwiftUI. Uses CoreData and UserDefaults for persistent storage, and a Custom UI and animations
